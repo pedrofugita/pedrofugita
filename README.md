@@ -29,5 +29,3 @@ Apaixonado por tecnologia, programação e arte!
   <img align="center" alt="riot" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
   <img align="center" alt="xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 </div><br/>
-
-![Snake animation](https://github.com/pedrofugita/pedrofugita/blob/output/github-contribution-grid-snake.svg)
