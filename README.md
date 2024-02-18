@@ -21,6 +21,8 @@
 
 Aluno de Engenharia Mecânica pela Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP) - Campus de Ilha Solteira.
 
+Estagiário na Área de Engenharia de Manufatura pela Embraer S.A.
+
 Apaixonado por tecnologia, programação e arte!
 
 ### Games:
