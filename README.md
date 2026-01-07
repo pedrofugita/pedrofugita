@@ -102,5 +102,5 @@ Experiência prática na criação de sistemas automatizados personalizados, int
   <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Counter--Strike-000000?style=for-the-badge&logo=counterstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Corinthians-1E1E1E?style=for-the-badge&logo=corinthians&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCCP-1E1E1E?style=for-the-badge&logo=corinthians&logoColor=white" />
 </div>
