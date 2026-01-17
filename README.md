@@ -2,10 +2,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pedro!;Engenheiro+Mec%C3%A2nico;Engenheiro+de+Dados" alt="Typing SVG" />
 
-  <p>
-    <i>"Transformando a lógica da engenharia em soluções de código."</i>
-  </p>
-
   <br>
 
   <a href="https://www.linkedin.com/in/pedro-fugita">
