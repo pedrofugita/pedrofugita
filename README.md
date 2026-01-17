@@ -23,7 +23,7 @@
 <br>
 
 ## 🚀 Sobre Mim
-Engenheiro Mecânico em formação pela UNESP-Ilha Solteira, com foco em automação industrial e desenvolvimento de soluções digitais voltadas ao aumento de produtividade, qualidade e eficiência operacional. 
+Engenheiro Mecânico formado pela UNESP-Ilha Solteira, com foco em automação industrial e desenvolvimento de soluções digitais voltadas ao aumento de produtividade, qualidade e eficiência operacional. 
 
 Experiência prática na criação de sistemas automatizados personalizados, integração de plataformas industriais, aplicação de Inteligência Artificial para visão computacional, com foco em segurança e qualidade, e para criação de agentes/chat-bots, com foco em ganho de eficiência operacional. Além disso, experiência em controle e análise de dados, desenvolvimento de dashboards, interfaces gráficas e aplicações para gestão de projetos de Engenharia, com ênfase na transformação digital de ambientes da indústria aeronáutica e semelhantes.
 
