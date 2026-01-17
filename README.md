@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pedro!;Engenharia+Mec%C3%A2nica+%2B+Tech;Explorando+Dados+%26+IA;Hardware+%2B+Software+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pedro!;Engenheiro+Mec%C3%A2nico;Engenheiro+de+Dados" alt="Typing SVG" />
 
   <p>
     <i>"Transformando a lógica da engenharia em soluções de código."</i>
